@@ -3,3 +3,4 @@ This project is a starting point for our robotic autonomous robot operating syst
 Keep Fighting and Striving!
 
 
+![Schematic Diagram](ImageforDocu/Schema.drawio.png)
